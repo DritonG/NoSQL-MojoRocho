@@ -1,4 +1,4 @@
-# Mojo - Elasticsearch Projekt
+# Mojo Rocho - Elasticsearch Projekt
 
 - Die Auslieferung statischer Daten (CSS/ JS/ HTML) ist ihnen überlassen,
   ob sie Node.js mit Express.js erweitern oder auch nur auf einem Apache
